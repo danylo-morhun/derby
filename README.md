@@ -47,3 +47,7 @@ npm run dev
 | `npm run test:e2e` | Cypress test of the full game flow  |
 
 pushes to main are deployed to GitHub Pages.
+
+## license
+
+MIT
