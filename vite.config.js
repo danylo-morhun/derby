@@ -3,7 +3,7 @@ import vue from '@vitejs/plugin-vue'
 
 export default defineConfig({
   plugins: [vue()],
-  base: process.env.NODE_ENV === 'production' ? '/horse-racing/' : '/',
+  base: process.env.NODE_ENV === 'production' ? '/derby/' : '/',
   test: {
     globals: true,
     environment: 'jsdom'

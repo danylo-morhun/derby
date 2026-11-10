@@ -1,5 +1,5 @@
 {
-  "name": "horse-racing-game",
+  "name": "derby",
   "version": "1.0.0",
   "description": "Interactive Horse Racing Game with Vue.js 3 and Vuex",
   "main": "index.js",

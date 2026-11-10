@@ -1,8 +1,9 @@
-# horse-racing
+# derby
 
-browser game that simulates a horse racing day. it is built with Vue 3 and Vuex.
+browser game that simulates a horse racing day, built with Vue 3 and Vuex
+as a take-home assignment.
 
-live at [danylo-morhun.github.io/horse-racing](https://danylo-morhun.github.io/horse-racing/).
+live at [danylo-morhun.github.io/derby](https://danylo-morhun.github.io/derby/).
 
 ## how it plays
 
